@@ -302,7 +302,18 @@ addNumbers = (num1,num2) => {return num1 + num2};
  * @return {Bool}
  *
  */
-
+installLinux = (flavors) => {
+    var exist = null;
+  for(var i = 0; i<linuxFlavors.length; i++){
+    if(flavors === linuxFlavors[i]){
+       exist = true;
+       return exist;
+    }else{
+      exist = false;
+    }
+  }
+  return exist;
+};
 
 /* Step 23
  *

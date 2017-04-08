@@ -289,7 +289,7 @@ sahara_river =()=>{ return 'Nile River'};
  * @return {Number}
  *
  */
-
+addNumbers = (num1,num2) => {return num1 + num2};
 
 /* Step 22
  *

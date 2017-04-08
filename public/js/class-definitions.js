@@ -164,9 +164,6 @@ var browsers = {
                 isDouble: true
               };
 
-
-
-
 /* Step 14
  *
  * Declare an array named "linuxFlavors"
@@ -181,6 +178,7 @@ var browsers = {
  *
  */
 
+var linuxFlavors = ["Gentoo", "Fedora", "Debian", "Slackware", "Red Hat","Bieber Linux"];
 
 /* Step 15
  *

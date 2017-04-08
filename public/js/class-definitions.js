@@ -32,8 +32,8 @@ var unicorn = null;
  * each planet in our solar system, in order of distance from the sun
  * Capitalize the names.
  */
-
-
+var planets =["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune"];
+//I still love you Pluto!
 /* Step 5
  *
  * Declare a variable named "galilean_moons"

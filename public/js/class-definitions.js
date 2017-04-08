@@ -22,7 +22,7 @@ var unicorn = null;
  *
  */
 
- // var sahara_animal = "The Addax"
+ var sahara_animal = "The Addax"
 
 
 /* Step 4
